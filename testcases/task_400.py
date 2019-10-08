@@ -34,9 +34,6 @@ class Task_400(unittest.TestCase):
 
 
         #请求
-        # print('xxx', test_data['url'])
-        # _url = '{}?token={}'.format(test_data['url'], self.token)
-        # r = self.request.request(test_data['method'], _url, para, header)
         r = self.request.request(test_data['method'], test_data['url'], para, header)
         actual_result = r.json()
         # print(actual_result)

@@ -21,8 +21,8 @@ class Request():
 
         # 隐藏关闭request的SSL认证后的InsecureRequestWarning警告信息
         requests.packages.urllib3.disable_warnings()
-        print('rrr', readconfig.agv_url)
-        print('uu', _url)
+        # print('rrr', readconfig.agv_url)
+        # print('uu', _url)
         _url = readconfig.agv_url + _url  # 普通请求
         # para = param.encode('utf-8')
         if method == 'post':

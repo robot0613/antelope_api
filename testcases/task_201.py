@@ -32,7 +32,7 @@ class Task_201(unittest.TestCase):
 
 
         #请求
-        print('xxx', test_data['url'])
+        # print('xxx', test_data['url'])
         # _url = '{}?token={}'.format(test_data['url'], self.token)
         # r = self.request.request(test_data['method'], _url, para, header)
         r = self.request.request(test_data['method'], test_data['url'], para, header)

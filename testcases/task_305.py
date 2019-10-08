@@ -3,7 +3,6 @@
 # @Time     : 2019/9/27 11:09
 # @Author   : sunyan
 
-
 import unittest
 import json
 from common.request import Request
@@ -12,7 +11,6 @@ from base.gettoken import get_agv_token
 
 #读取表格中的数据
 test_data = ReadExcel('tasks.xlsx','test_task_305').data_list()
-print(test_data)
 
 class Task_305(unittest.TestCase):
 
@@ -24,7 +22,7 @@ class Task_305(unittest.TestCase):
     def test_task_305(self):
         global test_data
         test_data = test_data[0]
-#
+
         #请求参数
         para = test_data['para']
         para = json.loads(para)
