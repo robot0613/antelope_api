@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time     : 2019/9/25 11:02
-# @Author   : sunyan
+# @Author   : sun yan
 
 import unittest
 import json
@@ -11,6 +11,7 @@ from base.gettoken import get_agv_token
 
 #读取表格中的数据
 test_data = ReadExcel('tasks.xlsx','test_task_201').data_list()
+print(test_data)
 
 class Task_201(unittest.TestCase):
 
@@ -32,9 +33,6 @@ class Task_201(unittest.TestCase):
 
 
         #请求
-        # print('xxx', test_data['url'])
-        # _url = '{}?token={}'.format(test_data['url'], self.token)
-        # r = self.request.request(test_data['method'], _url, para, header)
         r = self.request.request(test_data['method'], test_data['url'], para, header)
         actual_result = r.json()
         # print(actual_result)

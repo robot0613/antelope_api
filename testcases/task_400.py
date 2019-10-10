@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time     : 2019/9/27 11:31
-# @Author   : sunyan
-
+# @Time     : 2019/10/8 15:47
+# @Author   : sun yan
 
 import unittest
 import json
@@ -24,7 +23,7 @@ class Task_400(unittest.TestCase):
     def test_task_400(self):
         global test_data
         test_data = test_data[0]
-#
+
         #请求参数
         para = test_data['para']
         para = json.loads(para)

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time     : 2019/9/27 11:09
-# @Author   : sunyan
+# @Author   : sun yan
 
 import unittest
 import json
@@ -23,24 +23,22 @@ class Task_305(unittest.TestCase):
         global test_data
         test_data = test_data[0]
 
+
         #请求参数
         para = test_data['para']
         para = json.loads(para)
+
 
         #请求头
         header = {"Content-Type":"application/x-www-form-urlencoded","token":self.token}
 
 
         #请求
-        # print('xxx', test_data['url'])
-        # _url = '{}?token={}'.format(test_data['url'], self.token)
-        # r = self.request.request(test_data['method'], _url, para, header)
         r = self.request.request(test_data['method'], test_data['url'], para, header)
         actual_result = r.json()
-        # print(actual_result)
 
         #断言
-        self.assertEqual(actual_result['code'],test_data['code'])
+        self.assertEqual(actual_result['code'], test_data['code'])
 
 
     def tearDown(self):

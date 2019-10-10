@@ -14,3 +14,8 @@ conf.read(config_path)
 
 
 agv_url=conf.get('environment','agv_url')
+
+# mail_server=conf.get('email', 'mail_server')
+mail_username=conf.get('email', 'mail_username')
+mail_password=conf.get('email', 'mail_password')
+mail_receiver=conf.get('email', 'mail_receiver')
