@@ -13,7 +13,7 @@ conf=configparser.ConfigParser()
 conf.read(config_path)
 
 
-agv_url=conf.get('environment','agv_url')
+antelope_url=conf.get('environment','antelope_url')
 
 # mail_server=conf.get('email', 'mail_server')
 mail_username=conf.get('email', 'mail_username')

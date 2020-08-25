@@ -20,7 +20,7 @@ def get_task_id(token):
 }
     para=json.dumps(param)
 
-    url=readconfig.agv_url+'/tasks/task/'
+    url=readconfig.antelope_url+'/tasks/task/'
     header = {"Content-Type": "application/x-www-form-urlencoded", "token": token}
     r=request.request(method,url,para,header)
     result=r.json()

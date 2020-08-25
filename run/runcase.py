@@ -36,7 +36,8 @@ class TestRunner():
 
 if __name__ == '__main__':
 
-    run_all = TestRunner('testcases')
+    # run_all = TestRunner('../testcases/vehiclemanagement')
+    run_all = TestRunner('../testcases/taskmanagement')
     cases = run_all.case_discover()
 
     for case in cases[0]:

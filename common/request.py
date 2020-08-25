@@ -5,10 +5,11 @@
 
 import requests
 import json
+from config import readconfig
 
 
 # 重新封装request方法
-from config import readconfig
+
 
 
 class Request():
@@ -17,17 +18,19 @@ class Request():
 
         pass
 
-    def request(self, method, _url, para, header ={"Content-Type": "application/json"}):
+    def request(self, method, _url, para, header ={'Content-Type': 'application/x-www-form-urlencoded','Accept':'application/json, text/plain, */*'}):
 
         # 隐藏关闭request的SSL认证后的InsecureRequestWarning警告信息
         requests.packages.urllib3.disable_warnings()
         # print('rrr', readconfig.agv_url)
         # print('uu', _url)
-        _url = readconfig.agv_url + _url  # 普通请求
+        _url = readconfig.antelope_url + _url  # 普通请求
+        # _url = readconfig.agv_url  # 普通请求
         # para = param.encode('utf-8')
         if method == 'post':
 
             # return requests.post(_url, data=para, verify=False)
+            print(_url)
             return requests.post(_url, data=para, headers=header, verify=False)
 
         elif method == 'get':
@@ -42,7 +45,7 @@ class Request():
         else:
             raise NameError('please check your request method!')
 
-    def request_new(self, test_data, para, header={"Content-Type": "application/json"}):
+    def request_new(self, test_data, para, header= {'Content-Type':'application/x-www-form-urlencoded'}):
 
         # 隐藏关闭request的SSL认证后的InsecureRequestWarning警告信息
         requests.packages.urllib3.disable_warnings()
@@ -52,6 +55,7 @@ class Request():
         param = para.encode('utf-8')
         # 获取url
         url = test_data['url']
+        print(url)
 
         # 封装request方法
         if method == 'post':
