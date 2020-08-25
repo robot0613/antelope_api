@@ -10,7 +10,7 @@ from base.gettoken import get_antelope_token
 
 #获取表格中的数据
 test_data = ReadExcel('antelope.xlsx','test_set_pattern').data_list()
-print(test_data)
+#print(test_data)
 
 class Set_pattern(unittest.TestCase):
 
@@ -18,27 +18,24 @@ class Set_pattern(unittest.TestCase):
 
         self.request = Request()
         self.token = get_antelope_token()
+
     def test_set_pattern(self):
 
         global test_data
         test_data = test_data[0]
-        print(test_data)
+        #print(test_data)
 
         #请求参数
         para = test_data['para']
-        print(para)
+        #print(para)
 
         #请求头
         header = {'Content-Type':'application/x-www-form-urlencoded','token':self.token}
         print(header)
 
         #请求头
-        #r = self.request.request(test_data['method'],test_data['url'],para,header)
-        #a =  {"param1":r,}
-        #r = self.request.request(a )
         r = self.request.request(test_data['method'], test_data['url'], para, header)
         actual_result = r.json()
-       # print(actual_result)
 
         #断言
         self.assertEqual(actual_result['code'],test_data['code'])
