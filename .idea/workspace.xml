@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30234b23-45dc-4e3b-b473-29c84e57cd1f" name="Default" comment="8.25 15.58">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="set_strictsupervision.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcases/setpatrolpattern/set_strictsupervision.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="878">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="e#100#115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>me</find>
+      <find>get_201_token</find>
+      <find>readconfig</find>
+      <find>uu /tasks/task/</find>
+      <find>pringt</find>
+      <find>print</find>
+      <find>return token['agv_token']</find>
+      <find>test</find>
+      <find>test_data</find>
+      <find>http</find>
+      <find>url</find>
+      <find>da</find>
+      <find>data</find>
+      <find>dat</find>
+      <find>d</find>
+      <find>token</find>
+      <find>write_yaml</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\Test</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcases/task_cancel.py" />
+        <option value="$PROJECT_DIR$/testcases/task_400.py" />
+        <option value="$PROJECT_DIR$/testcases/task_204.py" />
+        <option value="$PROJECT_DIR$/testcases/task_206.py" />
+        <option value="$PROJECT_DIR$/testcases/task_304.py" />
+        <option value="$PROJECT_DIR$/testcases/task_303.py" />
+        <option value="$PROJECT_DIR$/testcases/task_302.py" />
+        <option value="$PROJECT_DIR$/testcases/task_102.py" />
+        <option value="$PROJECT_DIR$/testcases/task_103.py" />
+        <option value="$PROJECT_DIR$/testcases/task_305.py" />
+        <option value="$PROJECT_DIR$/testcases/task_type_error.py" />
+        <option value="$PROJECT_DIR$/testcases/task_type_error_3203.py" />
+        <option value="$PROJECT_DIR$/testcases/task_none_3205.py" />
+        <option value="$PROJECT_DIR$/testcases/task_test.py" />
+        <option value="$PROJECT_DIR$/testcases/task_none_3202.py" />
+        <option value="$PROJECT_DIR$/testcases/task_vehicle_none.py" />
+        <option value="$PROJECT_DIR$/testcases/task_one_key_stop.py" />
+        <option value="$PROJECT_DIR$/testcases/stop_recharge.py" />
+        <option value="$PROJECT_DIR$/testcases/set_recharge.py" />
+        <option value="$PROJECT_DIR$/testcases/set_recharge_4015.py" />
+        <option value="$PROJECT_DIR$/testcases/low_high_big_five.py" />
+        <option value="$PROJECT_DIR$/testcases/start_recharge_3231.py" />
+        <option value="$PROJECT_DIR$/testcases/start_recharge.py" />
+        <option value="$PROJECT_DIR$/testcases/task_101.py" />
+        <option value="$PROJECT_DIR$/testcases/task_203.py" />
+        <option value="$PROJECT_DIR$/testcases/task_201.py" />
+        <option value="$PROJECT_DIR$/base/cancle_task.py" />
+        <option value="$PROJECT_DIR$/base/get_cancle_task.py" />
+        <option value="$PROJECT_DIR$/testcases/task_cancle.py" />
+        <option value="$PROJECT_DIR$/testcases/pig.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/register_vehicle.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/test_register_vehicle.py" />
+        <option value="$PROJECT_DIR$/testcases/taskmanagement/task_201.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/cancle_vehicle_register.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_register.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_3103.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_4001.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_3107.py" />
+        <option value="$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_3122.py" />
+        <option value="$PROJECT_DIR$/testcases/hubianluanz/__init__.py" />
+        <option value="$PROJECT_DIR$/testcases/hubianluanz/one.py" />
+        <option value="$PROJECT_DIR$/testcases/hubianluanz/two.py" />
+        <option value="$PROJECT_DIR$/run/runcase.py" />
+        <option value="$PROJECT_DIR$/base/writetoken.py" />
+        <option value="$PROJECT_DIR$/base/gettoken.py" />
+        <option value="$PROJECT_DIR$/base/token.yaml" />
+        <option value="$PROJECT_DIR$/common/request.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/config/readconfig.py" />
+        <option value="$PROJECT_DIR$/testcases/setpatrolpattern/set_strictsupervision.py" />
+        <option value="$PROJECT_DIR$/base/gettaskid_201.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="561" />
+    <option name="y" value="265" />
+    <option name="width" value="1707" />
+    <option name="height" value="1119" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="antelope_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antelope_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antelope_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antelope_api" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antelope_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antelope_api" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antelope_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antelope_api" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antelope_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antelope_api" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antelope_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antelope_api" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="agv" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="agv" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Test\base" />
+      <recent name="E:\Test\testcases" />
+      <recent name="E:\Test\common" />
+      <recent name="E:\Test\run" />
+      <recent name="E:\qiang\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\qiang\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.set_strictsupervision">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="agv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/hubianluanz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/hubianluanz/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="gettoken" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="agv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/gettoken.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="agv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/hubianluanz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/hubianluanz/one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="runcase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="agv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run/runcase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="set_strictsupervision" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="agv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/setpatrolpattern" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/setpatrolpattern/set_strictsupervision.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="vehicle_3122" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="agv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/vehiclemanagement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_3122.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runcase" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.one" />
+      <item itemvalue="Python.set_strictsupervision" />
+      <item itemvalue="Python.gettoken" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.set_strictsupervision" />
+        <item itemvalue="Python.gettoken" />
+        <item itemvalue="Python.runcase" />
+        <item itemvalue="Python.one" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30234b23-45dc-4e3b-b473-29c84e57cd1f" name="Default" comment="" />
+      <created>1569376732752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569376732752</updated>
+    </task>
+    <task id="LOCAL-00001" summary="看下是否成功">
+      <created>1569567318351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569567318351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="上传task">
+      <created>1569567809606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569567809606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="上传task">
+      <created>1569568793136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569568793136</updated>
+    </task>
+    <task id="LOCAL-00004" summary="上传task">
+      <created>1569568850070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569568850070</updated>
+    </task>
+    <task id="LOCAL-00005" summary="给Test上传代码">
+      <created>1569572058107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569572058107</updated>
+    </task>
+    <task id="LOCAL-00006" summary="哇再试一遍">
+      <created>1569572405774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569572405774</updated>
+    </task>
+    <task id="LOCAL-00007" summary="10月8">
+      <created>1570507153554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570507153554</updated>
+    </task>
+    <task id="LOCAL-00008" summary="10月8第二次">
+      <created>1570507203812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570507203812</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10月10全部上传代码">
+      <created>1570673096494</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570673096494</updated>
+    </task>
+    <task id="LOCAL-00010" summary="10号再次上传代码">
+      <created>1570673393758</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570673393758</updated>
+    </task>
+    <task id="LOCAL-00011" summary="8.25 15.58">
+      <created>1598342556173</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598342556173</updated>
+    </task>
+    <task id="LOCAL-00012" summary="8.25 15.58">
+      <created>1598343096281</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598343096281</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_task_201_Task_201_test_task_201 - 2019.10.29 at 11h 22m 01s.xml">
+      <configuration name="py.test for task_201.Task_201.test_task_201" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_task_201_py - 2019.10.29 at 14h 10m 52s.xml">
+      <configuration name="py.test in task_201.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_task_201_py - 2019.10.29 at 14h 11m 09s.xml">
+      <configuration name="py.test in task_201.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_task_201_py - 2019.10.29 at 15h 12m 26s.xml">
+      <configuration name="py.test in task_201.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_task_206_py - 2019.10.29 at 15h 12m 50s.xml">
+      <configuration name="py.test in task_206.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_cancle_vehicle_register_py - 2019.10.29 at 15h 16m 16s.xml">
+      <configuration name="py.test in cancle_vehicle_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_cancle_vehicle_register_py - 2019.10.29 at 15h 17m 08s.xml">
+      <configuration name="py.test in cancle_vehicle_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_vehicle_3103_py - 2019.10.29 at 15h 19m 39s.xml">
+      <configuration name="py.test in vehicle_3103.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_vehicle_3107_py - 2019.10.29 at 15h 23m 36s.xml">
+      <configuration name="py.test in vehicle_3107.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_vehicle_3107_py - 2019.10.29 at 15h 24m 18s.xml">
+      <configuration name="py.test in vehicle_3107.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="374" y="177" width="1138" height="746" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18058077" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32786885" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40229884" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32840723" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4074074" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32512316" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="看下是否成功" />
+    <MESSAGE value="上传task" />
+    <MESSAGE value="给Test上传代码" />
+    <MESSAGE value="哇再试一遍" />
+    <MESSAGE value="10月8" />
+    <MESSAGE value="10月8第二次" />
+    <MESSAGE value="10月10全部上传代码" />
+    <MESSAGE value="10号再次上传代码" />
+    <MESSAGE value="8.25 15.58" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.25 15.58" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testcases/task_203.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/task_103.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xlrd/xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/task_102.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/task_101.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/task_305.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/stop_recharge.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/task_one_key_stop.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/task_201.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/task_cancle.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/pig.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/vehiclemanagement/test_register_vehicle.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/task_304.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="15" column="34" lean-forward="true" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/task_206.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="1084" selection-start-line="1084" selection-end-line="1084" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_4001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_3103.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="6" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_3107.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="41" column="65" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/vehiclemanagement/vehicle_3122.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/hubianluanz/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/hubianluanz/two.py" />
+    <entry file="file://$PROJECT_DIR$/run/runcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runcases.py" />
+    <entry file="file://$PROJECT_DIR$/cases_run.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/hubianluanz/one.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/low_high_big_five.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/vehiclemanagement/cancle_vehicle_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xlrd/book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3112">
+          <caret line="473" selection-start-line="473" selection-end-line="473" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/task_101.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/task_201.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/task_102.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/gettaskid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/writetoken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/exchangemail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/parareplace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/readdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/token.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2208">
+          <caret line="874" selection-start-line="874" selection-end-line="874" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="20" column="101" lean-forward="true" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/task_303.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/gettoken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/urllib3/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4172">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/taskmanagement/task_none_3202.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/get_cancle_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#100#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/gettaskid_201.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/setpatrolpattern/set_strictsupervision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#100#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
