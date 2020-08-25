@@ -23,7 +23,7 @@ class Set_pattern(unittest.TestCase):
 
         global test_data
         test_data = test_data[0]
-        #print(test_data)
+        print(test_data)
 
         #请求参数
         para = test_data['para']
