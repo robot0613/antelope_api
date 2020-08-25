@@ -16,8 +16,11 @@
       <file leaf-file-name="set_strictsupervision.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testcases/setpatrolpattern/set_strictsupervision.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="252">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="e#100#115#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,8 +123,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="516" />
-    <option name="y" value="505" />
+    <option name="x" value="571" />
+    <option name="y" value="238" />
     <option name="width" value="1781" />
     <option name="height" value="1040" />
   </component>
@@ -436,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598345318424</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1111">
+      <created>1598346713572</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598346713572</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -472,7 +482,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="344" y="337" width="1187" height="693" extended-state="0" />
+    <frame x="381" y="159" width="1187" height="693" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16333623" />
@@ -508,7 +518,8 @@
     <MESSAGE value="10号再次上传代码" />
     <MESSAGE value="8.25 15.58" />
     <MESSAGE value="ddd" />
-    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
+    <MESSAGE value="1111" />
+    <option name="LAST_COMMIT_MESSAGE" value="1111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -778,8 +789,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testcases/setpatrolpattern/set_strictsupervision.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="252">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#100#115#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
